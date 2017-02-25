@@ -1,2 +1,2 @@
-# Jungol
-www.jungol.co.kr
+# C-project
+www.NEWSECU.xyz
